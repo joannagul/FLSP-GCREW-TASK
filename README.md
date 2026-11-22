@@ -6,3 +6,5 @@ All datasets include radium (Ra) isotopes (223Ra, 224Ra, 226Ra, 228Ra), iostope 
 4 campaigns were conducted at GCREW to capture tidal (spring vs neap) and seasonal (summer vs winter) variabiliy. FLSP is designed the same way, but the winter campaign has not yet occured (anticipated winter 2027). 7 campaigns were conducted at TASK to assess seasonal variability (fall (x3), winter, spring (x2), summer).
 
 All data provided was collected by myself or my collaborators at the Smithsonian Environmental Research Center (GCREW), Penn State University, and VIMS (TASK).
+
+The goal of this study is to investigate the effects of spatial, temporal, and tidal variability on porewater exchange and submarine groundwater discharge in three Mid-Atlantic salt marshes.
